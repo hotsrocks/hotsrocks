@@ -1,1 +1,2 @@
 # hotsrocks
+>Quality over quantity
